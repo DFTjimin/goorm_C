@@ -17,7 +17,7 @@ int main(){
         if (p[i] == 49){
             cnt_1++;
         }
-		if (p[i] == 73){
+	if (p[i] == 73){
             cnt_i++;
         }
         if (p[i] == 108){
